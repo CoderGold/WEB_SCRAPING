@@ -1,5 +1,5 @@
 import requests
-import connector
+import connector   #imported from the connector.py program
 from bs4 import BeautifulSoup
 x=input("Enter The Number Of Pages You Want To Script: ")
 dbname=input("Enter The Name Of The Name Of The database: ")
